@@ -1,0 +1,13 @@
+{
+  "name": "rainflower-loy-krathong",
+  "version": "1.0.0",
+  "description": "ลอยกระทงออนไลน์กับ Rainflower - backend เก็บจำนวนกระทงและส่งกระทงแบบเรียลไทม์",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
